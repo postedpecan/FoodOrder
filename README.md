@@ -9,8 +9,20 @@ Security) for data/auth, deployed to Vercel.
 
 ## Competition
 
-This project was prepared for the competition announced in this
-[Instagram post](https://www.instagram.com/p/DcX3w7FJ6qB/).
+This project was prepared for **SBW Hackathon 2026**, an education-innovation
+competition focused on applying technology to help students and teachers keep
+pace with the modern world.
+
+Updated event timeline:
+
+- **26 August 2026:** Applications close
+- **28 August 2026:** Ten finalist teams announced
+- **28 August-1 September 2026:** Finalists confirm participation
+- **5 September 2026:** Online project consultation
+- **8 September 2026:** Final Pitching at Saraburi Wittayakhom School
+
+Competition information: [Instagram announcement](https://www.instagram.com/p/DcX3w7FJ6qB/)
+and the official Instagram accounts `@sbw_sc68` and `@sbw_hackathon`.
 
 ## 1. Create a Supabase project
 
